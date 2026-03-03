@@ -1,12 +1,12 @@
 {
   "name": "My Cool App Repo",
-  "identifier": "com.yourname.repo",
+  "identifier": "com.wayback94.repo",
   "apps": [
     {
       "name": "YoutubePlus",
       "bundleIdentifier": "com.developer.app",
-      "developerName": "Your Name",
-      "version": "1.0.0",
+      "developerName": "Jacob",
+      "version": "5.2b4",
       "versionDate": "2026-03-03",
       "downloadURL": "https://github.com/wayback94/YTLite/releases/download/v5.2b4/YouTubePlus_5.2b4.ipa",
       "iconURL": "https://example.com/icon.png",
